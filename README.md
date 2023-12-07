@@ -19,7 +19,7 @@
 
 4.푸쉬
 
-[영남이공대학교].(http://www.ync.ac.kr)
+[영남이공대학교](http://www.ync.ac.kr)
 
 <!--
 **eodud34/eodud34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
